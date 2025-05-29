@@ -2,8 +2,8 @@
 # TensorFlow_HomeAssignment1
 
 **Student Information**:
-- Name: GUNTUR MURALI LAKSHMI PRASANNA
-- ID: 700768410
+- Name: AJAY MUPPA
+- ID: 700769264
 
 ## Description
 This repository contains the TensorFlow programming assignment, covering:
